@@ -1,3 +1,3 @@
 # example
 
-I'm a rebased commit!
+I'm a rebased commit and a second commit!
